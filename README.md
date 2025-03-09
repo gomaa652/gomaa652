@@ -16,7 +16,7 @@
 <br>
 
 
-### A Student & Developer
+### <div align="center">A Student & Developer</div>
 
 <div align="center">
 <p align="center">🛠 Tools & Technology</p>
@@ -30,7 +30,7 @@
 
 <br>
 
-<summary>📝 My GitHub Stats</summary>
+<summary align="center">📝 My GitHub Stats</summary>
 <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=gomaa652&theme=gotham)
