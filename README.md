@@ -16,8 +16,8 @@
 <br>
 
 <div align="center">
-### A Student & Developer
 
+### A Student & Developer
 
 <p align="center">🛠 Tools & Technology</p>
 
