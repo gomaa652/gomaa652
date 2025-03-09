@@ -15,10 +15,10 @@
 
 <br>
 
-
+<div align="center">
 ### A Student & Developer
 
-<div align="center">
+
 <p align="center">🛠 Tools & Technology</p>
 
 <img src="https://img.shields.io/badge/flutter-336699?style=for-the-badge&logo=flutter&logoColor=white" />
