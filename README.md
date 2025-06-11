@@ -7,7 +7,7 @@
 <div align="center">
 <p align="center">Let's connect!</p>
 
-<a href="https://www.linkedin.com/in/hussein-maghrabi/">
+<a href="https://www.linkedin.com/in/farouk-jomaa/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
